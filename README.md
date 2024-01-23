@@ -19,10 +19,6 @@ python3.6 pointflow_fig_colorful.py
 mitsuba mitsuba_scene.xml
 ```
 
-## Examples
-<p float="left">
-    <img src="mitsuba_scene.png" height="256"/>
-</p>
 
 ## Cite
 Please consider citing our work if you find it useful:
